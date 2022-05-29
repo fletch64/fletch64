@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fletch64
-- 👀 I’m interested in learning basic coding and working in cybersec.
-- 🌱 I’m currently learning C# via online undergrad class.
+- 👀 I’m interested in learning coding/scripting so that I can be more skillful in a cybersecurity career.
+- 🌱 I’ve taken intro classes to C#, HTML, and CSS. At work I use Powershell a lot. I love powershell! 
 - 💞️ I’m looking to collaborate on nothing yet.
-- 📫 How to reach me.. myspace
+- 📫 How to reach me.. LinkedIn!
 
 <!---
 fletch64/fletch64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
